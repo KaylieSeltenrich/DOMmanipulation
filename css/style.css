@@ -1,0 +1,9 @@
+.floatimage {
+    float: right;
+    width: 10%;
+}
+
+.floatimageleft {
+    float: left;
+    width: 10%;
+}
